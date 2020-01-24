@@ -24,7 +24,7 @@ The Idea for this project was to make a portfolio template which people can free
 
 ### Desktop View
 
-![Desktop view](Solar.gif)
+![Desktop view](desktopview.png)
 
 ### Mobile View
 
