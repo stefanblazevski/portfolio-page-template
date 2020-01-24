@@ -25,7 +25,3 @@ The Idea for this project was to make a portfolio template which people can free
 ### Desktop View
 
 ![Desktop view](desktopview.png)
-
-### Mobile View
-
-![Mobile view](MobileView.gif)
