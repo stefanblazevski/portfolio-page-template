@@ -1,4 +1,4 @@
-# Portfolio Page Template
+# Blue Wave Portfolio
 ## https://bluewave-portfolio-sb.netlify.app
 
 ## Idea 
