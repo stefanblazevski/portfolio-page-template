@@ -1,4 +1,6 @@
 # Portfolio Page Template
+## https://bluewave-portfolio-sb.netlify.app
+
 ## Idea 
 The Idea for this project was to make a portfolio template which people can freely use for their own needs.
 
